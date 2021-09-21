@@ -173,6 +173,15 @@ footer {
 		margin-top: 10%;
 		max-width: 100%;
 	}
+	
+	  .ipc {
+		padding: 0;
+		opacity: 0;
+		width: 0;
+		height: 0;
+
+	}
+	
 	.page-content .projects-section {
 		margin-top: 15%;
 	}
